@@ -25,4 +25,7 @@ Overview of code to run experiments:
    ```
    python RQ3_plot.py --ckpts_list '50 100 250 600' --dataset ''
    ```
-
+7. To evaluate the context relevance of the rules in IM use the following script:
+   ```
+   python evaluate_IM_prometheus.py -test_path 'path to test file' --gen_path 'path to generations file'
+   ```
