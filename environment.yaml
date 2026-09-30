@@ -399,4 +399,4 @@ dependencies:
       - yarl==1.22.0
       - zipp==3.23.0
       - zstandard==0.25.0
-prefix: /DATA/ai21resch11002/.conda/envs/mental_model
+prefix: mental_model
