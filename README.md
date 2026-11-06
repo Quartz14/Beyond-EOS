@@ -1,5 +1,7 @@
 # Beyond-EOS
 
+**Paper link**: [Beyond EOS: Revealing the Internal Monologue of Language Models](https://aclanthology.org/2026.findings-aacl.180/)
+
 Overview of code to run experiments:
 
 1. To finetune the model by adding trainable bias vectors to every layer of the model run
